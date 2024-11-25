@@ -1,0 +1,1 @@
+I Have run the following interactive plot to see what different window calculations look like, This requires to install ipyml and node.js and run a few commands from the command line as indicated in the aforementioned link.
